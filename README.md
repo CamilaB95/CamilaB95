@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá! Eu sou a Camila Barbosa 👋
 
-<!--
-**CamilaB95/CamilaB95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+- 🔭 Hoje estou migrando para área de TI. 
+- 🌱 Estou estudando JavaScript  
+- 📧 Contate-me no e-mail: camila_barbosanascimento@hotmail.com
+- 👩🏽 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/CamilaB95">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaB95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaB95&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+  <img align="right" alt="Camila-mariobros" src="https://media.giphy.com/media/1wh06XT53tPGw/giphy.gif">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  
+<div> 
+   
+ <a href="https://instagram.com/camila_barbosa95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:camilan.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/camila-barbosa-26b112110" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
