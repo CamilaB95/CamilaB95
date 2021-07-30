@@ -1,11 +1,11 @@
  ### Olá! Eu sou a Camila Barbosa 👋
 
  
-- 🔭 Hoje estou migrando para área de TI. 
-- 🌱 Estou estudando JavaScript, CSS e HTML.  
-- 📧 Contate-me no e-mail: camila_barbosanascimento@hotmail.com
-- 👩🏽 Pronouns: ela/dela
-- 🎮 Hobbies: Jogar videogame, ler e assitir filmes comendo uma boa pipoquinha!   
+- 🔭  Hoje estou migrando para área de TI. 
+- 🌱  Estou estudando JavaScript, CSS e HTML.  
+- 📧  Contate-me no e-mail: camila_barbosanascimento@hotmail.com
+- 👩🏽  Pronouns: ela/dela
+- 🎮  Hobbies: Jogar videogame, ler e assitir filmes comendo uma boa pipoquinha!   
 
 <div>
   <a href="https://github.com/CamilaB95">
