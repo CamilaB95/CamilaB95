@@ -1,8 +1,8 @@
  ### Olá! Eu sou a Camila Barbosa 👋
 
  
-- 🔭  Hoje estou migrando para área de TI. 
-- 🌱  Estou estudando JavaScript, CSS e HTML.  
+- 🔭  Analista de Testes na Avivatec.  
+- 🌱  Estou estudando JavaScript, CSS, HTML e testes automatizados.
 - 📧  Contate-me no e-mail: camila_barbosanascimento@hotmail.com
 - 👩🏽  Pronouns: ela/dela
 - 🎮  Hobbies: Jogar videogame, ler e assitir filmes comendo uma boa pipoquinha!   
